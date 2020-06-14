@@ -1,0 +1,15 @@
+# PhpStorm
+/.idea
+
+# Composer
+/vendor
+
+# Doesnt matter for libraries
+/composer.lock
+
+# PHP-CS-Fixer
+/.php_cs
+/.php_cs.cache
+
+# PHPUnit
+.phpunit.result.cache
